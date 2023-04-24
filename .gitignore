@@ -1,0 +1,4 @@
+build
+.github
+images/resized-images/*
+node_modules
