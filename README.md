@@ -5,7 +5,7 @@ This is a simple API that allows you to resize and process images using the **[S
 ## Requirements
 
 - Node.js version 12.x or later
-- NPM or Yarn package manager
+- NPM package manager
 
 ## Installation
 
